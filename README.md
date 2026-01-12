@@ -36,5 +36,6 @@ Ensemble methods demonstrated improved robustness and predictive performance com
 Python, NumPy, Pandas, scikit-learn, Jupyter Notebook
 
 ## Notes
+The final project report was written in LaTeX using Overleaf, with figures and tables generated directly from the analysis results. 
 This repository reflects a coursework-based analytical project.
 It contains final code and reports rather than a production-level pipeline.
