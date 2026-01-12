@@ -1,4 +1,4 @@
-# Structured Data Classification
+# Classification Models
 
 ## Project Overview
 This repository contains a group coursework project focusing on supervised classification using structured tabular data.
